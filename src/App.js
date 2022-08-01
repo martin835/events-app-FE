@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import MyHeader from "./components/MyHeader";
 import HomePage from "./views/HomePage";
 import { Route, Routes } from "react-router-dom";
+import MyFooter from "./components/MyFooter";
 
 function App() {
   return (
